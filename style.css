@@ -3,7 +3,9 @@
     padding: 0;
     text-align: center;
 }
-
+body{
+    max-height: 100vh;
+}
 h1 {
     background-color: #081b31;
     color: white;
